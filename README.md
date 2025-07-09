@@ -15,4 +15,4 @@ Dashboard que apresenta um balanço patrimonial por categoria e ano, usando matr
 Arquivo `.pbix` disponível.
 
 ## 🖼 Captura de Tela
-![Balanço]()
+![Balanço](Captura de tela 2025-07-08 110451.png)
